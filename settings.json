@@ -1,0 +1,28 @@
+{
+    "workbench.startupEditor": "none",
+    "chat.commandCenter.enabled": false,
+    "window.commandCenter": false,
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.location": "top",
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.runInTerminal": true,
+    "vim.useSystemClipboard": true,
+    "editor.lineNumbers": "relative",
+
+    // Edu-VSCode [Disable All Suggestions]
+    "editor.quickSuggestions":
+    {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.wordBasedSuggestions": "off",
+    "editor.parameterHints.enabled": false,
+    "editor.inlineSuggest.enabled": false
+}
